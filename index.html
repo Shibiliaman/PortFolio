@@ -45,7 +45,7 @@
                     <div class="home">Home</div>
                 </div>
                 <div class="designs-wrapper" id="frameContainer2">
-                    <div class="home">Designs</div>
+                    <div class="home" >Designs</div>
                 </div>
                 <div class="projects-wrapper" id="frameContainer3">
                     <div class="home">Projects</div>
@@ -154,7 +154,7 @@
             </div>
         </div>
         <div class="sa-graphics2">SA GRAPHICS</div>
-        <img class="sa-home-page-child" alt="" src="images/line-1-148.svg">
+        <img class="sa-home-page-child" alt="" src="images/Line 1.png">
     </div>
     <script>
         var vectorIcon = document.getElementById("vectorIcon");
@@ -190,19 +190,19 @@
             vectorIcon4.addEventListener("click", function () {
                 window.open("https://www.linkedin.com/in/shibili-aman-tk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app");
             });
-        }
-
+        }        
+        
         var frameContainer2 = document.getElementById("frameContainer2");
         if (frameContainer2) {
             frameContainer2.addEventListener("click", function (e) {
-                // Add your code here
+                window.location.href = "design.html";
             });
         }
 
         var frameContainer3 = document.getElementById("frameContainer3");
         if (frameContainer3) {
             frameContainer3.addEventListener("click", function (e) {
-                // Add your code here
+                window.location.href = "project.html";
             });
         }
     </script>

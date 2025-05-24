@@ -1,0 +1,473 @@
+.background-icon {
+  	position: absolute;
+  	top: 90px;
+  	left: -69.17px;
+  	width: 1658.3px;
+  	height: 5431.7px;
+}
+.footer1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 1.6666666269302368px 5px 18.33px -2.5px rgba(0, 0, 0, 0.1);
+  	background-color: #080537;
+  	border: 0.8px solid #000;
+  	box-sizing: border-box;
+  	width: 1650px;
+  	height: 326.7px;
+}
+.vector-icon {
+  	width: 23.6px;
+  	position: relative;
+  	height: 23.6px;
+  	cursor: pointer;
+}
+.vector-icon1 {
+  	width: 25.7px;
+  	position: relative;
+  	height: 25.8px;
+  	cursor: pointer;
+}
+.vector-icon2 {
+  	width: 23.1px;
+  	position: relative;
+  	height: 23.6px;
+  	cursor: pointer;
+}
+.vector-icon3 {
+  	width: 25.8px;
+  	position: relative;
+  	height: 25.2px;
+  	cursor: pointer;
+}
+.vector-icon4 {
+  	width: 24.6px;
+  	position: relative;
+  	height: 23.3px;
+  	cursor: pointer;
+}
+.vector-icon5 {
+  	width: 27.1px;
+  	position: relative;
+  	height: 20.7px;
+}
+.vector-parent {
+  	position: absolute;
+  	top: 240.83px;
+  	left: 640px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 33.6px;
+}
+.connect {
+  	align-self: stretch;
+  	position: relative;
+  	letter-spacing: 0.02em;
+}
+.whether-its-a {
+  	margin: 0;
+}
+.whether-its-a-container {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16.14px;
+  	letter-spacing: 0.02em;
+}
+.connect-parent {
+  	position: absolute;
+  	top: 33.33px;
+  	left: 216.67px;
+  	width: 917.8px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.footer {
+  	position: absolute;
+  	top: 5150.83px;
+  	left: -69.17px;
+  	width: 1650px;
+  	height: 326.7px;
+  	font-size: 38.74px;
+  	color: #fff;
+  	font-family: Preahvihear;
+}
+.header1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 1.6666666269302368px 5px 18.33px -2.5px rgba(0, 0, 0, 0.1);
+  	background-color: #080537;
+  	border: 0.8px solid #000;
+  	box-sizing: border-box;
+  	width: 1650px;
+  	height: 94.2px;
+}
+.sa-1-icon {
+  	width: 64.2px;
+  	position: relative;
+  	max-height: 100%;
+  	object-fit: contain;
+}
+.sa-graphics {
+  	width: 243.3px;
+  	position: relative;
+  	text-transform: uppercase;
+  	display: inline-block;
+  	height: 77.4px;
+  	flex-shrink: 0;
+}
+.sa-1-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-end;
+  	justify-content: flex-start;
+  	gap: 39.2px;
+  	font-size: 64.89px;
+  	font-family: 'League Gothic';
+}
+.home {
+  	position: relative;
+}
+.home-wrapper {
+  	width: 186.7px;
+  	border-radius: 31.72px;
+  	border: 2.1px solid #fff;
+  	box-sizing: border-box;
+  	height: 42.5px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 5.5px 35.2px;
+  	cursor: pointer;
+}
+.designs-wrapper {
+  	width: 187.5px;
+  	filter: drop-shadow(0px 3.3333332538604736px 3.33px rgba(0, 0, 0, 0.25));
+  	border-radius: 31.72px;
+  	border: 2.1px solid #ed7b23;
+  	box-sizing: border-box;
+  	height: 42.5px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 1.4px 13.8px;
+  	color: #ed7b23;
+}
+.projects-wrapper {
+  	width: 186.7px;
+  	border-radius: 31.72px;
+  	border: 2.1px solid #fff;
+  	box-sizing: border-box;
+  	height: 42.5px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 2.1px 22.1px;
+  	cursor: pointer;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 7.5px;
+  	left: 141.67px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 123.3px;
+}
+.header {
+  	position: absolute;
+  	top: -1.67px;
+  	left: -65px;
+  	width: 1650px;
+  	height: 94.2px;
+  	font-size: 27.2px;
+  	color: #fff;
+}
+.sa-graphics2 {
+  	position: absolute;
+  	top: 5435.83px;
+  	left: 704.17px;
+  	font-size: 6.88px;
+  	letter-spacing: 0.02em;
+  	font-family: Preahvihear;
+  	color: #fff;
+}
+.sa-designs-page-child {
+  	position: absolute;
+  	top: 5431.63px;
+  	left: 567.5px;
+  	width: 325px;
+  	height: 0px;
+  	object-fit: contain;
+}
+.gradient {
+  	position: absolute;
+  	top: 231.5px;
+  	left: 584.31px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 642.3px;
+  	height: 720.4px;
+}
+.gradient1 {
+  	position: absolute;
+  	top: 2513.17px;
+  	left: 584.05px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 642.3px;
+  	height: 720.4px;
+}
+.gradient2 {
+  	position: absolute;
+  	top: 1399px;
+  	left: 612.5px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 642.3px;
+  	height: 720.4px;
+}
+.gradient3 {
+  	position: absolute;
+  	top: 222.5px;
+  	left: 810.44px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 625.3px;
+  	height: 700.4px;
+}
+.gradient4 {
+  	position: absolute;
+  	top: 2504.17px;
+  	left: 810.17px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 625.3px;
+  	height: 700.4px;
+}
+.gradient5 {
+  	position: absolute;
+  	top: 1390px;
+  	left: 811.96px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 625.3px;
+  	height: 700.4px;
+}
+.gradient6 {
+  	position: absolute;
+  	top: 836.67px;
+  	left: 110.83px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 572.3px;
+  	height: 641.3px;
+}
+.gradient7 {
+  	position: absolute;
+  	top: 1997.5px;
+  	left: 110.83px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 572.3px;
+  	height: 641.3px;
+}
+.bmw-m4-1 {
+  	position: absolute;
+  	top: 956.67px;
+  	left: 185.83px;
+  	width: 421.7px;
+  	height: 421.7px;
+  	object-fit: cover;
+}
+.bmw-m4-3 {
+  	position: absolute;
+  	top: 1547.5px;
+  	left: 831.67px;
+  	width: 421.7px;
+  	height: 421.7px;
+  	object-fit: cover;
+}
+.bmw-m4-2 {
+  	position: absolute;
+  	top: 2117.5px;
+  	left: 185.83px;
+  	width: 421.7px;
+  	height: 421.7px;
+  	object-fit: cover;
+}
+.mask-group-icon {
+  	position: absolute;
+  	top: 325.83px;
+  	left: 776.67px;
+  	width: 537.7px;
+  	height: 569.2px;
+  	object-fit: cover;
+}
+.mask-group-icon1 {
+  	position: absolute;
+  	top: 2577.5px;
+  	left: 831.67px;
+  	width: 421.7px;
+  	height: 526.9px;
+  	object-fit: cover;
+}
+.card-icon {
+  	width: 669.4px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	left: 0px;
+  	height: 165.1px;
+  	object-fit: cover;
+  	z-index: 0;
+}
+.the-mercedes-amg-gt {
+  	width: 606.7px;
+  	position: relative;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	flex-shrink: 0;
+  	z-index: 1;
+}
+.card-parent {
+  	position: absolute;
+  	top: 100.05px;
+  	left: 0px;
+  	width: 669.4px;
+  	height: 165.1px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 25.8px 31.7px;
+  	box-sizing: border-box;
+  	gap: 8.3px;
+}
+.mercedes-amg-gtr {
+  	position: absolute;
+  	top: 19.01px;
+  	left: 2px;
+  	font-size: 34.02px;
+  	letter-spacing: 0.02em;
+  	text-transform: uppercase;
+  	font-weight: 600;
+}
+.poster {
+  	position: absolute;
+  	top: 0px;
+  	left: 2px;
+  	font-size: 16.01px;
+  	letter-spacing: 0.02em;
+  	font-weight: 600;
+  	color: #9857d3;
+}
+.portfolio-text {
+  	position: absolute;
+  	top: 437.62px;
+  	left: 186.1px;
+  	width: 669.4px;
+  	height: 265.1px;
+}
+.portfolio-text1 {
+  	position: absolute;
+  	top: 2719.28px;
+  	left: 185.83px;
+  	width: 669.4px;
+  	height: 265.1px;
+}
+.portfolio-text2 {
+  	position: absolute;
+  	top: 1582.62px;
+  	left: 186.67px;
+  	width: 669.4px;
+  	height: 265.1px;
+}
+.card-icon3 {
+  	position: absolute;
+  	top: 96.05px;
+  	left: 0px;
+  	width: 669.4px;
+  	height: 165.1px;
+  	object-fit: cover;
+}
+.the-bmw-m4 {
+  	position: absolute;
+  	top: 118.33px;
+  	left: 35.83px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 564.2px;
+}
+.bmw-m4 {
+  	position: absolute;
+  	top: 17.75px;
+  	left: 519.3px;
+  	font-size: 34.02px;
+  	letter-spacing: 0.02em;
+  	font-weight: 600;
+}
+.poster3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 606.62px;
+  	font-size: 16.01px;
+  	letter-spacing: 0.02em;
+  	font-weight: 600;
+  	color: #9857d3;
+}
+.portfolio-text3 {
+  	position: absolute;
+  	top: 1002.5px;
+  	left: 584.17px;
+  	width: 671.3px;
+  	height: 261.1px;
+  	font-size: 16.02px;
+}
+.neymar-jr-born {
+  	position: absolute;
+  	top: 110.83px;
+  	left: 48.33px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 527.5px;
+}
+.neymer-jr {
+  	position: absolute;
+  	top: 17.5px;
+  	left: 480.83px;
+  	font-size: 34.02px;
+  	letter-spacing: 0.02em;
+  	font-weight: 600;
+}
+.portfolio-text4 {
+  	position: absolute;
+  	top: 2163.33px;
+  	left: 584.17px;
+  	width: 670.8px;
+  	height: 261.1px;
+  	font-size: 14.98px;
+}
+.sa-designs-page {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 5477.5px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 18.01px;
+  	color: #ccd6f6;
+  	font-family: Poppins;
+}
+
