@@ -1,0 +1,841 @@
+.background-icon {
+  	position: absolute;
+  	top: 108px;
+  	left: -83px;
+  	width: 1990px;
+  	height: 4298px;
+}
+.footer1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 2px 6px 22px -3px rgba(0, 0, 0, 0.1);
+  	background-color: #080537;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 1980px;
+  	height: 392px;
+}
+.vector-icon {
+  	width: 28.3px;
+  	position: relative;
+  	height: 28.3px;
+  	cursor: pointer;
+}
+.vector-icon1 {
+  	width: 30.8px;
+  	position: relative;
+  	height: 31px;
+  	cursor: pointer;
+}
+.vector-icon2 {
+  	width: 27.8px;
+  	position: relative;
+  	height: 28.3px;
+  	cursor: pointer;
+}
+.vector-icon3 {
+  	width: 31px;
+  	position: relative;
+  	height: 30.2px;
+  	cursor: pointer;
+}
+.vector-icon4 {
+  	width: 29.5px;
+  	position: relative;
+  	height: 27.9px;
+  	cursor: pointer;
+}
+.vector-icon5 {
+  	width: 32.5px;
+  	position: relative;
+  	height: 24.8px;
+}
+.vector-parent {
+  	position: absolute;
+  	top: 289px;
+  	left: 768px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 40.3px;
+}
+.connect {
+  	align-self: stretch;
+  	position: relative;
+  	letter-spacing: 0.02em;
+}
+.whether-its-a {
+  	margin: 0;
+}
+.whether-its-a-container {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 19.37px;
+  	letter-spacing: 0.02em;
+}
+.connect-parent {
+  	position: absolute;
+  	top: 40px;
+  	left: 260px;
+  	width: 1101.4px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.footer {
+  	position: absolute;
+  	top: 3820px;
+  	left: -78px;
+  	width: 1980px;
+  	height: 392px;
+}
+.header1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 2px 6px 22px -3px rgba(0, 0, 0, 0.1);
+  	background-color: #080537;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 1980px;
+  	height: 113px;
+}
+.sa-1-icon {
+  	width: 77px;
+  	position: relative;
+  	max-height: 100%;
+  	object-fit: contain;
+}
+.sa-graphics {
+  	width: 292px;
+  	position: relative;
+  	text-transform: uppercase;
+  	display: inline-block;
+  	height: 92.9px;
+  	flex-shrink: 0;
+}
+.sa-1-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-end;
+  	justify-content: flex-start;
+  	gap: 47px;
+  	font-size: 77.87px;
+  	font-family: 'League Gothic';
+}
+.home {
+  	position: relative;
+}
+.home-wrapper {
+  	width: 224px;
+  	border-radius: 38.06px;
+  	border: 2.5px solid #ed7b23;
+  	box-sizing: border-box;
+  	height: 51px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6.6px 42.2px;
+  	color: #ed7b23;
+}
+.designs-wrapper {
+  	width: 225px;
+  	border-radius: 38.06px;
+  	border: 2.5px solid #fff;
+  	box-sizing: border-box;
+  	height: 51px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 1.7px 16.5px;
+  	cursor: pointer;
+}
+.projects-wrapper {
+  	width: 224px;
+  	border-radius: 38.06px;
+  	border: 2.5px solid #fff;
+  	box-sizing: border-box;
+  	height: 51px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 2.5px 26.5px;
+  	cursor: pointer;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 9px;
+  	left: 170px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 148px;
+}
+.header {
+  	position: absolute;
+  	top: -2px;
+  	left: -78px;
+  	width: 1980px;
+  	height: 113px;
+  	font-size: 32.64px;
+  	font-family: Poppins;
+}
+.gradient {
+  	width: 528px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #3f0afe, rgba(50, 15, 133, 0));
+  	height: 620px;
+  	z-index: 0;
+}
+.me-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #fff 17.71%, rgba(67, 67, 67, 0));
+  	width: 353.8px;
+  	height: 372.6px;
+}
+.image-1-icon {
+  	position: absolute;
+  	top: 73.29px;
+  	left: 64px;
+  	border-radius: 113.14px;
+  	width: 226px;
+  	height: 226px;
+  	object-fit: cover;
+}
+.me {
+  	width: 353.8px;
+  	position: relative;
+  	height: 372.6px;
+  	z-index: 1;
+}
+.gradient-parent {
+  	position: absolute;
+  	top: 19px;
+  	left: 0px;
+  	width: 528px;
+  	height: 620px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 124px 86px;
+  	box-sizing: border-box;
+  	gap: 10px;
+}
+.arrow-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 274.62px;
+  	width: 246.8px;
+  	height: 267.6px;
+  	object-fit: contain;
+}
+.hello-i-am {
+  	position: absolute;
+  	top: 37px;
+  	left: 513px;
+  	letter-spacing: -1.08px;
+  	line-height: 210.4px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 531.4px;
+  	height: 43.4px;
+}
+.a-designer-who {
+  	align-self: stretch;
+  	position: relative;
+  	text-decoration: underline;
+  	letter-spacing: 0.02em;
+}
+.sophistication {
+  	color: #ed7b23;
+}
+.simplicity-is-the-container {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 66.69px;
+  	letter-spacing: 0.02em;
+  	line-height: 126.66%;
+}
+.because-the-simplest {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 14.67px;
+  	letter-spacing: 0.02em;
+}
+.a-designer-who-believes-parent {
+  	position: absolute;
+  	top: 183px;
+  	left: 513px;
+  	width: 820.7px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	text-align: left;
+  	font-size: 22.67px;
+}
+.me-time {
+  	position: absolute;
+  	top: 257px;
+  	left: 142px;
+  	width: 1333.7px;
+  	height: 639px;
+  	text-align: center;
+  	font-size: 41.21px;
+}
+.currently-im-a {
+  	white-space: pre-wrap;
+}
+.currently-im-a-container1 {
+  	width: 100%;
+}
+.currently-im-a-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.02em;
+  	display: flex;
+  	align-items: center;
+  	width: 664px;
+}
+.designation-child {
+  	position: absolute;
+  	top: 3px;
+  	left: 449px;
+  	width: 30px;
+  	height: 30px;
+  	object-fit: cover;
+}
+.designation {
+  	width: 664px;
+  	position: relative;
+  	height: 38px;
+  	margin-top: -17px;
+  	font-size: 21px;
+}
+.im-a-engineering-undergrad-parent {
+  	width: 805px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.im-a-self-taught {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 30.98px;
+  	letter-spacing: 0.02em;
+}
+.intro {
+  	position: absolute;
+  	top: 829px;
+  	left: 216px;
+  	width: 1297px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 77px;
+  	font-size: 50px;
+}
+.gradient1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 333px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #08053a, rgba(50, 15, 133, 0));
+  	width: 625px;
+  	height: 700px;
+}
+.mask-group-icon {
+  	width: 637.3px;
+  	position: relative;
+  	height: 187.9px;
+  	z-index: 0;
+}
+.student-ambassador {
+  	width: 322px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 51.43px;
+  	left: 220.27px;
+  	line-height: 36.34px;
+  	font-weight: 600;
+  	display: inline-block;
+  	height: 26.8px;
+  	flex-shrink: 0;
+  	z-index: 1;
+}
+.promoting-tech-learning {
+  	width: 259.4px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 90.57px;
+  	left: 221.38px;
+  	font-size: 8.94px;
+  	line-height: 11.74px;
+  	font-weight: 500;
+  	display: inline-block;
+  	height: 53.7px;
+  	flex-shrink: 0;
+  	z-index: 2;
+}
+.learn-more-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 11.18px;
+  	width: 133.1px;
+  	height: 36.9px;
+}
+.learn-more1 {
+  	position: absolute;
+  	top: 11.18px;
+  	left: 21.24px;
+  	line-height: 16.77px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 86.1px;
+  	height: 14.5px;
+}
+.learn-more {
+  	width: 133.1px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 125.23px;
+  	left: 218.03px;
+  	height: 36.9px;
+  	z-index: 3;
+  	text-align: center;
+  	font-size: 11.18px;
+}
+.images-picsart-backgroundremov-icon {
+  	width: 153.2px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 31.31px;
+  	left: 22.36px;
+  	max-height: 100%;
+  	object-fit: cover;
+  	z-index: 4;
+}
+.experience {
+  	width: 637.3px;
+  	box-shadow: 4.472414016723633px 7.826724529266357px 29.07px rgba(0, 0, 0, 0.12);
+  	border-radius: 16.77px;
+  	background: linear-gradient(110.49deg, #130428 7.29%, #251043 34.38%, #38126d 56.77%, #261045 84.9%, #190634);
+  	height: 215.4px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	position: relative;
+  	gap: 11.2px;
+}
+.designer {
+  	width: 286.2px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 51.39px;
+  	left: 218.03px;
+  	line-height: 36.34px;
+  	font-weight: 600;
+  	display: inline-block;
+  	height: 26.8px;
+  	flex-shrink: 0;
+  	z-index: 1;
+}
+.working-as-design {
+  	width: 259.4px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 90.52px;
+  	left: 219.15px;
+  	font-size: 8.94px;
+  	line-height: 11.74px;
+  	font-weight: 500;
+  	display: inline-block;
+  	height: 53.7px;
+  	flex-shrink: 0;
+  	z-index: 2;
+}
+.learn-more3 {
+  	width: 133.1px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 125.18px;
+  	left: 215.79px;
+  	height: 36.9px;
+  	z-index: 3;
+  	text-align: center;
+  	font-size: 11.18px;
+}
+.iedc-logo-icon {
+  	width: 150px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 83.86px;
+  	left: calc(50% - 271.19px);
+  	max-height: 100%;
+  	object-fit: cover;
+  	z-index: 4;
+}
+.experience1 {
+  	width: 637.3px;
+  	box-shadow: 4.472414016723633px 7.826724529266357px 29.07px rgba(0, 0, 0, 0.12);
+  	border-radius: 16.77px;
+  	background: linear-gradient(95.56deg, #130428 7.29%, #251043 34.38%, #38126d 56.77%, #261045 84.9%, #190634);
+  	height: 215.4px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	position: relative;
+  	gap: 11.2px;
+}
+.experience-parent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 22.4px;
+  	font-size: 29.07px;
+  	font-family: Poppins;
+}
+.work-experience-parent {
+  	position: absolute;
+  	top: 146px;
+  	left: 0px;
+  	width: 1297px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 33px;
+}
+.work-experiance {
+  	position: absolute;
+  	top: 1408px;
+  	left: 224px;
+  	width: 1297px;
+  	height: 700px;
+  	font-size: 40px;
+}
+.that-values-improving {
+  	margin: 0;
+  	font-size: 22.9px;
+}
+.im-currently-looking-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 165.58px;
+  	letter-spacing: 0.02em;
+  	line-height: 41.73px;
+}
+.cross-functional {
+  	position: absolute;
+  	top: 0px;
+  	left: 677.12px;
+  	font-size: 32.31px;
+  	letter-spacing: 0.02em;
+  	line-height: 41.73px;
+  	color: #ed7b23;
+}
+.group-child {
+  	position: absolute;
+  	top: 245.67px;
+  	left: 621.35px;
+  	width: 164.8px;
+  	height: 373.6px;
+}
+.group-item {
+  	position: absolute;
+  	top: 268.56px;
+  	left: 608.48px;
+  	width: 94.9px;
+  	height: 363.5px;
+}
+.group-inner {
+  	position: absolute;
+  	top: 266.54px;
+  	left: 587.6px;
+  	width: 46.4px;
+  	height: 392.4px;
+}
+.group-child1 {
+  	position: absolute;
+  	top: 258.46px;
+  	left: 408.56px;
+  	width: 158.8px;
+  	height: 404.5px;
+  	object-fit: contain;
+}
+.group-child2 {
+  	position: absolute;
+  	top: 258.46px;
+  	left: 491.35px;
+  	width: 89px;
+  	height: 417.3px;
+  	object-fit: contain;
+}
+.group-child3 {
+  	position: absolute;
+  	top: 262.5px;
+  	left: 557.31px;
+  	width: 28.3px;
+  	height: 421.3px;
+  	object-fit: contain;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 570.77px;
+  	left: 243.65px;
+  	border-radius: 50%;
+  	background: radial-gradient(50% 50% at 50% 50%, #763cac, rgba(50, 15, 133, 0));
+  	width: 729.6px;
+  	height: 444.2px;
+}
+.logoss-icon {
+  	position: absolute;
+  	top: 130.58px;
+  	left: 343.27px;
+  	width: 503.5px;
+  	height: 141.3px;
+  	object-fit: contain;
+}
+.logo-icon {
+  	position: absolute;
+  	top: 603.08px;
+  	left: 471.15px;
+  	border-radius: 121.15px;
+  	width: 242.3px;
+  	height: 242.3px;
+  	object-fit: cover;
+}
+.group-child4 {
+	width: 100%;
+	position: relative;
+	border-radius: 50%;
+	border: 1.3px solid rgba(0, 0, 0, 0);
+	box-sizing: border-box;
+	height: 362.1px;
+}
+.group-child5 {
+  	position: absolute;
+  	top: 615.19px;
+  	left: 84.81px;
+  	border-radius: 50%;
+  	border: 1.3px solid rgba(0, 0, 0, 0);
+  	box-sizing: border-box;
+  	width: 1028.5px;
+  	height: 362.1px;
+}
+.group-child6 {
+  	position: absolute;
+  	top: 615.19px;
+  	left: 145.38px;
+  	border-radius: 50%;
+  	border: 1.3px solid rgba(0, 0, 0, 0);
+  	box-sizing: border-box;
+  	width: 935.6px;
+  	height: 362.1px;
+}
+.group-icon {
+  	position: absolute;
+  	top: 518.27px;
+  	left: 393.08px;
+  	width: 411.9px;
+  	height: 370.2px;
+}
+.group-icon1 {
+  	position: absolute;
+  	height: 2.77%;
+  	width: 2.24%;
+  	top: 71%;
+  	right: 4.69%;
+  	bottom: 26.24%;
+  	left: 93.07%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon6 {
+  	position: absolute;
+  	height: 2.01%;
+  	width: 1.45%;
+  	top: 66.97%;
+  	right: 12.4%;
+  	bottom: 31.02%;
+  	left: 86.15%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon7 {
+  	position: absolute;
+  	height: 2.94%;
+  	width: 1.78%;
+  	top: 77.96%;
+  	right: 0%;
+  	bottom: 19.11%;
+  	left: 98.21%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-icon2 {
+  	position: absolute;
+  	height: 2.55%;
+  	width: 1.23%;
+  	top: 89.56%;
+  	right: 13.18%;
+  	bottom: 7.89%;
+  	left: 85.59%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-child7 {
+  	position: absolute;
+  	height: 2.05%;
+  	width: 1.52%;
+  	top: 80.59%;
+  	right: 6.19%;
+  	bottom: 17.37%;
+  	left: 92.29%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-child8 {
+  	position: absolute;
+  	height: 1.53%;
+  	width: 2.27%;
+  	top: 67.93%;
+  	right: 18.52%;
+  	bottom: 30.54%;
+  	left: 79.22%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon8 {
+  	position: absolute;
+  	height: 2.32%;
+  	width: 1.56%;
+  	top: 76.56%;
+  	right: 85.03%;
+  	bottom: 21.12%;
+  	left: 13.41%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-child9 {
+  	position: absolute;
+  	height: 2.7%;
+  	width: 1.45%;
+  	top: 85.67%;
+  	right: 95.42%;
+  	bottom: 11.63%;
+  	left: 3.13%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-child10 {
+  	position: absolute;
+  	height: 1.95%;
+  	width: 1.34%;
+  	top: 64.19%;
+  	right: 77.76%;
+  	bottom: 33.86%;
+  	left: 20.89%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-child11 {
+  	position: absolute;
+  	height: 1.98%;
+  	width: 1.4%;
+  	top: 69.14%;
+  	right: 89.44%;
+  	bottom: 28.88%;
+  	left: 9.16%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-child12 {
+  	position: absolute;
+  	height: 2.47%;
+  	width: 2.42%;
+  	top: 86.93%;
+  	right: 83.27%;
+  	bottom: 10.6%;
+  	left: 14.3%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.skills-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1204.8px;
+  	height: 1015px;
+}
+.skills {
+  	position: absolute;
+  	top: 2143px;
+  	left: 262px;
+  	width: 1204.8px;
+  	height: 1015px;
+  	text-align: center;
+  	font-size: 32.3px;
+}
+.sa-graphics2 {
+  	position: absolute;
+  	top: 4162px;
+  	left: 850px;
+  	font-size: 8.25px;
+  	letter-spacing: 0.02em;
+}
+.sa-home-page-child {
+  	position: absolute;
+  	top: 4156.96px;
+  	left: 686px;
+  	width: 390px;
+  	height: 0px;
+  	object-fit: contain;
+}
+.sa-home-page {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 4212px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 46.48px;
+  	color: #fff;
+  	font-family: Preahvihear;
+}
+
